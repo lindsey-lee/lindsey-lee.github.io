@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 <!-- profile image -->
-![alt text](https://github.com/lindsey-lee/lindsey-lee.github.io/blob/master/about_resized.jpg"Logo Title Text 1")
+![alt text](https://github.com/lindsey-lee/lindsey-lee.github.io/blob/master/about_resized.jpg)
 
-**Hi! I am Yeonju Lee (a.k.a. Lindsey).**
+**Hi! I am Yeonju Lee (a.k.a. Lindsey). Welcome to my web site! :)**
 
-I am a recent masters grad from the department of Statistics at University of California, Berkeley. 
+I am a recent masters grad from the department of Statistics at University of California, Berkeley.
 
 *"The greatest pleasure in life is doing what people say you cannot do." - Walter Bagehot*
