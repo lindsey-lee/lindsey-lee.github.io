@@ -9,10 +9,10 @@
 title: Yeonju Lee (a.k.a. Lindsey)
 email: lindsey.lee@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Interested in data science, applied statistics, and violin :)
+  Interested in Data science, Applied statistics, and Violin :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lindsey-lee.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: lindsey1_lee
 github_username:  lindsey-lee
 
 # Build settings
