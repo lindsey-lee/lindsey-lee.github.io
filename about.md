@@ -5,6 +5,6 @@ permalink: /about/
 ---
 
 <!-- profile image -->
-  <IMG SRC="about_revised.jpg">
+![alt text](https://github.com/lindsey-lee/lindsey-lee.github.io/about_resized.jpg"Logo Title Text 1")
 
 Coming soon...
