@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- profile image -->
-<!-- ![alt text](/images/about.jpg) -->
+![alt text](/images/about.jpg)
 
 **Hi! I am Yeonju Lee (a.k.a. Lindsey). Welcome to my website! :)**
 
