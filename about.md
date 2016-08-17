@@ -3,10 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-div {
-    width: 200px;
-    word-wrap: break-word;
-}
+
 <!-- profile image -->
 ![alt text](/images/about.jpg)
 
