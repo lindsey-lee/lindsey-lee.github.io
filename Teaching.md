@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
+<span style="color:grey; font-family:Georgia; font-size:1.5em;"> Stat 20 (Fall 2015, Spring 2016)</span>
 
 ### Stat 20 (Fall 2015, Spring 2016)
 I was the GSI for Introduction to Statistics and Probability Stat 20 taught by professor Hank Ibser.
